@@ -1,9 +1,9 @@
-# Boffin-IV-Coding-Python-control
+# Boffin-IV-Coding-Python-control 🐍
 I made an python control for "Boffin IV Coding" and "Elenco Snap Circuits; Explore Coding"
                                                                                             *|| Download here* ----->
 
 
-# How to Install
+# How to Install 📚
 
 1. Download the Boffin-hacker-XX.py (latest version)
 2. Open pip-installer.py
@@ -12,7 +12,7 @@ I made an python control for "Boffin IV Coding" and "Elenco Snap Circuits; Explo
 5. Open Boffin-hacker-XX.py
 6. Enjoy!
 
-# SUPPORT
+# SUPPORT 🧑‍💻
 
 Bugs, errors or sommething?
 Discord: just_adko_things

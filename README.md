@@ -11,3 +11,8 @@ I made an python control for "Boffin IV Coding" and "Elenco Snap Circuits; Explo
 4. Errors, or bugs, open CMD and type "pip install bleak asyncio"
 5. Open Boffin-hacker-XX.py
 6. Enjoy!
+
+# SUPPORT
+
+Bugs, errors or sommething?
+Discord: just_adko_things

@@ -16,3 +16,4 @@ I made an python control for "Boffin IV Coding" and "Elenco Snap Circuits; Explo
 
 Bugs, errors or sommething?
 Discord: just_adko_things
+Email: usbloade@gmail.com

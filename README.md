@@ -1,5 +1,5 @@
 # Boffin-IV-Coding-Python-control 🐍
-I made a python control for Bluetooth "Boffin IV Coding" and "Elenco Snap Circuits; Explore Coding"
+I made a python control for "Boffin IV Coding" and "Elenco Snap Circuits; Explore Coding"
                                                                                             *|| Download here* ----->
 
 
